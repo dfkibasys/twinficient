@@ -1,0 +1,9 @@
+/telegraf/ModbusDatabase.*
+/telegraf/tmp/sqLite-check
+/telegraf/tmp/influx-check
+/telegraf/tmp/companies
+/csharp/example/bin/Debug/net8.0
+/csharp/example/obj/Debug/net8.0
+/services/basyx-java-clients/.openapi-generator
+/scripts/validate-aas/bin
+/csharp/example/obj
